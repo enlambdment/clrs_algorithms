@@ -66,7 +66,6 @@ bin_insert(rand_lst, rand_v)
 '''
 
 
-# DEBUG
 def bin_insert_sort(ns):
 	j = 1
 	length = len(ns)
